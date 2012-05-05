@@ -12,5 +12,6 @@ http://mirror.rit.edu/dag/redhat/el3/en/$ARCH/extras
 http://mirror.teklinks.com/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.us.leaseweb.net/dag/redhat/el3/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el3/en/$ARCH/extras
+http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el3/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/extras
