@@ -2,7 +2,6 @@ http://fr2.rpmfind.net/linux/dag/redhat/el4/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://ftp.riken.jp/pub/Linux/dag/redhat/el4/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/rpmforge
-http://mirror.atrpms.net/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirror.awanti.com/rpmforge/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirror.fairway.ne.jp/dag/redhat/el4/en/$ARCH/rpmforge
@@ -14,6 +13,7 @@ http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/rpmforge
+http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://sunsite.mff.cuni.cz/MIRRORS/ftp.freshrpms.net/pub/freshrpms/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
