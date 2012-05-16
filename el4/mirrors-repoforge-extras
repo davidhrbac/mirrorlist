@@ -17,5 +17,6 @@ http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/extras
 http://mirror1.hs-esslingen.de/dag/redhat/el4/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/extras
+http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
 http://sunsite.mff.cuni.cz/MIRRORS/ftp.freshrpms.net/pub/freshrpms/pub/dag/redhat/el4/en/$ARCH/extras
