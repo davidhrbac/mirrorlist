@@ -21,4 +21,5 @@ http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/extras
 http://nl.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
+http://sunsite.mff.cuni.cz/MIRRORS/ftp.freshrpms.net/pub/freshrpms/pub/dag/redhat/el4/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/extras
