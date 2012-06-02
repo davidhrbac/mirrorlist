@@ -25,7 +25,6 @@ http://mirror1.hs-esslingen.de/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/rpmforge
-http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
