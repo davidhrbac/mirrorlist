@@ -17,6 +17,7 @@ http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.fairway.ne.jp/dag/redhat/el4/en/$ARCH/extras
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
+http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/extras
 http://mirror.rit.edu/dag/redhat/el4/en/$ARCH/extras
 http://mirror.team-cymru.org/rpmforge/redhat/el4/en/$ARCH/extras
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/extras
@@ -28,6 +29,5 @@ http://nl.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/extras
 http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/extras
 http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/extras
-http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/extras
