@@ -22,5 +22,6 @@ http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.gtdinternet.com/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.repo.unpas.ac.id/redhat/el5/en/$ARCH/rpmforge
+http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/rpmforge
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/rpmforge
