@@ -8,6 +8,7 @@ http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el4/en/$ARCH/testing
 http://mirror.awanti.com/rpmforge/dag/redhat/el4/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
+http://mirror.fairway.ne.jp/dag/redhat/el4/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/testing
@@ -24,3 +25,4 @@ http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/testing
 http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/testing
+http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/testing
