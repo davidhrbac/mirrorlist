@@ -1,10 +1,8 @@
-http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el5/en/$ARCH/rpmforge
 http://be.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/rpmforge
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/rpmforge
 http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el5/en/$ARCH/rpmforge
-http://ftp.lug.ro/freshrpms/dag/redhat/el5/en/$ARCH/rpmforge
 http://ftp.riken.jp/pub/Linux/dag/redhat/el5/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/rpmforge
@@ -27,8 +25,5 @@ http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.gtdinternet.com/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.repo.unpas.ac.id/redhat/el5/en/$ARCH/rpmforge
-http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
-http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/rpmforge
-http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/rpmforge
