@@ -7,7 +7,6 @@ http://ftp.riken.jp/pub/Linux/dag/redhat/el4/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.ate.info/dag/redhat/el4/en/$ARCH/extras
-http://mirror.atrpms.net/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.awanti.com/rpmforge/dag/redhat/el4/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/extras
@@ -23,6 +22,7 @@ http://nl.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/extras
 http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/extras
 http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/extras
+http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/extras
