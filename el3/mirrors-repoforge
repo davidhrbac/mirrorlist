@@ -6,6 +6,7 @@ http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el3/en/$ARCH/rpmforge
 http://ftp.lug.ro/freshrpms/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.riken.jp/pub/Linux/dag/redhat/el3/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
+http://mirror.atrpms.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.fairway.ne.jp/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/rpmforge
@@ -25,3 +26,4 @@ http://repoforge.vc.ukrtel.net/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/rpmforge
+http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/rpmforge
