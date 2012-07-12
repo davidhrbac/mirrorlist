@@ -5,6 +5,7 @@ http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/testi
 http://ftp.lug.ro/freshrpms/dag/redhat/el5/en/$ARCH/testing
 http://ftp.riken.jp/pub/Linux/dag/redhat/el5/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
+http://mirror.atrpms.net/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.fairway.ne.jp/dag/redhat/el5/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
@@ -22,4 +23,3 @@ http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/testing
 http://repoforge.vc.ukrtel.net/redhat/el5/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
-http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/testing
