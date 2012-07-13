@@ -4,6 +4,7 @@ http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/rpmfo
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.atrpms.net/repoforge/redhat/el3/en/$ARCH/rpmforge
+http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.team-cymru.org/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/repoforge/redhat/el3/en/$ARCH/rpmforge
