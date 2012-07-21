@@ -1,4 +1,5 @@
 http://archive.cs.uu.nl/mirror/dag.wieers/
+http://be.mirror.eurid.eu/rpmforge/
 http://fr2.rpmfind.net/linux/dag/
 http://ftp.fi.muni.cz/pub/linux/repoforge/
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/
@@ -9,6 +10,7 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/
 http://mir01.syntis.net/repoforge/
 http://mirror.ate.info/dag/
 http://mirror.de.leaseweb.net/dag/
+http://mirror.hmc.edu/repoforge/
 http://mirror.nl.leaseweb.net/dag/
 http://mirror.oscc.org.my/dag/
 http://mirror.team-cymru.org/rpmforge/
@@ -26,3 +28,4 @@ http://repoforge.vc.ukrtel.net/
 http://repoforge.xpg.com.br/
 http://repository.vsb.cz/mirrors/repoforge/
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/
+http://www.mirrorservice.org/sites/apt.sw.be/
