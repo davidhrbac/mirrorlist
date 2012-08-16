@@ -9,6 +9,7 @@ http://ftp.riken.jp/Linux/repoforge/redhat/el6/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el6/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.ate.info/dag/redhat/el6/en/$ARCH/extras
+http://mirror.atrpms.net/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.awanti.com/rpmforge/dag/redhat/el6/en/$ARCH/extras
 http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el6/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el6/en/$ARCH/extras
@@ -27,7 +28,6 @@ http://repoforge.gtdinternet.com/redhat/el6/en/$ARCH/extras
 http://repoforge.repo.unpas.ac.id/redhat/el6/en/$ARCH/extras
 http://repoforge.spinellicreations.com/redhat/el6/en/$ARCH/extras
 http://repoforge.vc.ukrtel.net/redhat/el6/en/$ARCH/extras
-http://repoforge.xpg.com.br/redhat/el6/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el6/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el6/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el6/en/$ARCH/extras
