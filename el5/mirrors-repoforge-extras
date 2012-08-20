@@ -14,6 +14,7 @@ http://mirror.awanti.com/rpmforge/dag/redhat/el5/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/extras
 http://mirror.hmc.edu/repoforge/redhat/el5/en/$ARCH/extras
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/extras
+http://mirror.oscc.org.my/dag/redhat/el5/en/$ARCH/extras
 http://mirror.rit.edu/dag/redhat/el5/en/$ARCH/extras
 http://mirror.team-cymru.org/rpmforge/redhat/el5/en/$ARCH/extras
 http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/extras
@@ -28,6 +29,7 @@ http://repoforge.gtdinternet.com/redhat/el5/en/$ARCH/extras
 http://repoforge.repo.unpas.ac.id/redhat/el5/en/$ARCH/extras
 http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/extras
 http://repoforge.vc.ukrtel.net/redhat/el5/en/$ARCH/extras
+http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el5/en/$ARCH/extras
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/extras
