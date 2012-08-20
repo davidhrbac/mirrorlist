@@ -15,7 +15,6 @@ http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.lug.udel.edu/pub/dag/redhat/el3/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el3/en/$ARCH/testing
-http://mirror.oscc.org.my/dag/redhat/el3/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el3/en/$ARCH/testing
 http://mirror.team-cymru.org/rpmforge/redhat/el3/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el3/en/$ARCH/testing
@@ -32,3 +31,4 @@ http://repoforge.vc.ukrtel.net/redhat/el3/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el3/en/$ARCH/testing
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/testing
+http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/testing
