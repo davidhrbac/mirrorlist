@@ -28,3 +28,4 @@ http://repoforge.repo.unpas.ac.id/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.vc.ukrtel.net/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
+http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/rpmforge
