@@ -8,6 +8,7 @@ http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/testing
+http://mirror.ate.info/dag/redhat/el4/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
@@ -25,7 +26,6 @@ http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/testing
 http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/testing
 http://repoforge.vc.ukrtel.net/redhat/el4/en/$ARCH/testing
-http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/testing
 http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el4/en/$ARCH/testing
