@@ -28,6 +28,7 @@ http://mirrors.ircam.fr/pub/dag/redhat/el3/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.gtdinternet.com/redhat/el3/en/$ARCH/rpmforge
+http://repoforge.repo.unpas.ac.id/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.vc.ukrtel.net/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/rpmforge
