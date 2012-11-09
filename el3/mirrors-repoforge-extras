@@ -9,7 +9,6 @@ http://ftp.riken.jp/Linux/repoforge/redhat/el3/en/$ARCH/extras
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el3/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/extras
-http://mirror.ate.info/dag/redhat/el3/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/extras
 http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.nl.leaseweb.net/dag/redhat/el3/en/$ARCH/extras
@@ -30,6 +29,7 @@ http://repoforge.cu.be/redhat/el3/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el3/en/$ARCH/extras
 http://repoforge.gtdinternet.com/redhat/el3/en/$ARCH/extras
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/extras
+http://repoforge.repo.unpas.ac.id/redhat/el3/en/$ARCH/extras
 http://repoforge.vc.ukrtel.net/redhat/el3/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/extras
 http://repository.vsb.cz/mirrors/repoforge/redhat/el3/en/$ARCH/extras
