@@ -8,7 +8,6 @@ http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirror.ate.info/dag/redhat/el4/en/$ARCH/rpmforge
-http://mirror.atrpms.net/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/rpmforge
@@ -34,4 +33,5 @@ http://repoforge.repo.unpas.ac.id/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.vc.ukrtel.net/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/rpmforge
 http://repository.vsb.cz/mirrors/repoforge/redhat/el4/en/$ARCH/rpmforge
+http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el4/en/$ARCH/rpmforge
