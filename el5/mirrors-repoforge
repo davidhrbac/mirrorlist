@@ -10,7 +10,6 @@ http://kartolo.sby.datautama.net.id/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.ate.info/dag/redhat/el5/en/$ARCH/rpmforge
-http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
@@ -21,6 +20,7 @@ http://mirror.team-cymru.org/rpmforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.teljet.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
+http://mirror.ventraip.net.au/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.webnx.com/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirrors.cicku.me/repoforge/redhat/el5/en/$ARCH/rpmforge
