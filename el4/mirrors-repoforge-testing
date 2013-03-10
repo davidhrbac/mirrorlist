@@ -1,4 +1,5 @@
 http://be.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/testing
+http://fr2.rpmfind.net/linux/dag/redhat/el4/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/testing
@@ -21,7 +22,6 @@ http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el4/en/$ARCH/testing
-http://mirror.siamdata.co.th/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.team-cymru.org/rpmforge/redhat/el4/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.teljet.net/repoforge/redhat/el4/en/$ARCH/testing
@@ -30,7 +30,6 @@ http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.ventraip.net.au/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/testing
 http://mirror1.hs-esslingen.de/repoforge/redhat/el4/en/$ARCH/testing
-http://mirrors.digipower.vn/repoforge/redhat/el4/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirrors.neusoft.edu.cn/repoforge/redhat/el4/en/$ARCH/testing
 http://nl.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/testing
